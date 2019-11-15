@@ -138,6 +138,16 @@ color: aliceblue ;
   background-color: #111111;
 }
 
+.table1 {
+  width: 400px ;
+  height: 450px ;
+  background-color: #ffffff ;
+  opacity: 80% ;
+  align-self: center;
+
+
+}
+
 .map {
   position: relative;
   z-index: 1 ;
@@ -161,6 +171,8 @@ color: aliceblue ;
   max-width: 25%;
   padding: 0 4px;
 }
+
+
 
 .column img {
   margin-top: 8px;
